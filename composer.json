@@ -1,0 +1,10 @@
+{
+    "name": "andrey/arthint",
+    "authors": [
+        {
+            "name": "Andrey",
+            "email": "andrey.diveev@gmail.com"
+        }
+    ],
+    "require": {}
+}
